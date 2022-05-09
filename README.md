@@ -1,6 +1,6 @@
 # Implementation-of-Filters
 ## Aim:
-To implement filters for smoothing and sharpening the images in spatial domain.
+To implement filters for smoothing and sharpening the images in the spatial domain.
 
 ## Software Required:
 Anaconda - Python 3.7
@@ -134,5 +134,4 @@ ii) Using Laplacian Operator
 </br>
 
 ## Result:
-Thus the filters are designed for smoothing and sharpening the images in spatial domain.
-
+Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
